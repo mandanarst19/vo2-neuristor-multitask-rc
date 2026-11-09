@@ -1,8 +1,7 @@
 # Thermal coupling and simultaneous multi-task reservoir computing in VO₂ neuristor arrays
 
 Simulation scripts, result data and figure scripts for the paper
-
-> [Authors], *Thermal coupling and simultaneous multi-task reservoir computing in VO₂ neuristor arrays*, Neuromorphic Computing and Engineering (submitted).
+.
 
 A 28 × 28 array of thermally coupled VO₂ neuristors is used as a physical reservoir. Each Colored MNIST image is encoded as one input voltage per pixel. From the same 15,680 features (784 neurons × 20 time bins of 0.5 µs), three readouts are trained at the same time: digit (10 classes), colour (10 classes) and parity (2 classes). The reservoir itself is never trained.
 
