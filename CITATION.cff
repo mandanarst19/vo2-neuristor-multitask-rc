@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these scripts or data, please cite the paper below."
+title: "Thermal coupling and simultaneous multi-task reservoir computing in VO2 neuristor arrays: scripts and data"
+authors:
+  - family-names: Roosta
+    given-names: Mandana
+license: MIT
+repository-code: "https://github.com/mandanarst19/vo2-neuristor-multitask-rc"
+# doi: to be added at submission (Zenodo)
